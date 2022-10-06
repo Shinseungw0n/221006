@@ -1,3 +1,3 @@
 # 221006
 
-print("Hello")ds
+print("Hello")
